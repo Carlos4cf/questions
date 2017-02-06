@@ -37,7 +37,8 @@
   <option>aplicación web única</option>
   <option>aplicación web angular</option> 
   <option>aplicación web de una sola pagina</option>
-  <answer>0,2</answer> 
+  <answer>0</answer>
+ <answer>2</answer>
  </question>
   <question id='CJP006'>
   <type>radio</type>
@@ -82,6 +83,7 @@
   <option>SQL</option> 
   <option>HTML</option>
   <option>C++</option>
-  <answer>0, 3</answer> 
+  <answer>0</answer> 
+  <answer>3</answer>
  </question>
 </questions>
