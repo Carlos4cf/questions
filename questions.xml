@@ -28,13 +28,14 @@
   <title>¿Quién ha creado el lenguaje de programación Swift?</title>
   <answer>Apple</answer>
  </question>
-
 <question id='CJP005'> 
  <type>multiple</type>
   <title>¿Que es SPA?</title>
   <option>aplicación web única</option>
   <option>aplicación web angular</option> 
   <option>aplicación web de una sola pagina</option>
+  <option>aplicacion web para bases de datos</option>
+  <option>aplicacion web para buscadores</option>
   <answer>0</answer>
   <answer>2</answer> 
  </question>
@@ -45,6 +46,8 @@
   <option>SQL</option> 
   <option>HTML</option>
   <option>C++</option>
+  <option>MySQL</option>
+  <option>Php</option>
   <answer>0</answer>
   <answer>3</answer> 
  </question>
@@ -56,7 +59,6 @@
   <option>1991</option>
   <answer>1</answer> 
 </question> 
-
  <question id='CJP008'>
   <type>radio</type>
   <title>¿Para que sirve el JDK?</title>
@@ -66,7 +68,6 @@
   <option>Para ayudar a los navegadores web en las consultas.</option>
   <answer>1</answer> 
  </question>
-
  <question id='CJP009'>
   <type>select</type>
   <title>En java,¿ cómo muestras información por pantalla?</title>
@@ -76,7 +77,6 @@
   <option>public static void main(String [] Args)</option>
   <answer>0</answer> 
  </question>
-
    <question id='CJP010'>
   <type>select</type>
   <title>¿Quién inventó Java?</title>
@@ -86,5 +86,4 @@
   <option>Oracle</option>
   <answer>3</answer> 
  </question> 
-  
 </questions>
